@@ -1,3 +1,3 @@
 # CellSpecificAnalysis
 
-![image](https://github.com/RujiaDai/CellSpecificAnalysis/blob/master/image/figure s1.svg)
+![image](https://github.com/RujiaDai/CellSpecificAnalysis/blob/master/image/figures1.svg)
